@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Email Support
+    url: mailto:hello@affrentice.com
+    about: Contact us directly for private or sensitive issues
+  - name: 💬 Discussions
+    url: https://github.com/affrentice/aqmrg-api/discussions
+    about: Ask questions and discuss ideas with the community
