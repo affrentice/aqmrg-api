@@ -168,8 +168,8 @@ The platform follows a microservices architecture with the following key compone
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd aqmrg-ai-backend
+   git clone https://github.com/affrentice/aqmrg-api.git
+   cd aqmrg-api
    ```
 
 2. **Set up environment variables**
