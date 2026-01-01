@@ -341,19 +341,26 @@ Access monitoring dashboards:
 
 ## License
 
-[Add your license information]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive open-source license that allows:
+
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
 
 ## Support
 
 For questions or issues:
 
-- Email: support@aqmrg.org
-- Documentation: https://docs.aqmrg.org
-- Issue Tracker: [Add link]
+- **Email**: hello@affrentice.com
+- **Issue Tracker**: https://github.com/affrentice/aqmrg-api/issues
+- **Discussions**: https://github.com/affrentice/aqmrg-api/discussions
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for version history.
+See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 
 ---
 
